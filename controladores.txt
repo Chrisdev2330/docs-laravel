@@ -1,0 +1,5 @@
+crear con carpeta 
+
+Auth\\RegisterController
+
+php artisan make:request Provider\StoreRequest

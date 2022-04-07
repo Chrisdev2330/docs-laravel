@@ -1,0 +1,10 @@
+php artisan migrate:rollback   -- volver hacia atras
+
+php artisan migrate
+
+php artisan make: migration
+
+add_username_to_users_table   Aregar campos a la 
+migration.
+
+create_post_table crear tabla 
